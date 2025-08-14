@@ -35,3 +35,7 @@ tmp/
 
 # Resources (if you want to exclude large files)
 # resources/assets/
+
+# Note.com exported data
+resources/assets/
+resources/note-*.xml

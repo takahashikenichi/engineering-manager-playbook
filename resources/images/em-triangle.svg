@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="520" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="520" fill="white"/>
+  
+  <!-- Title -->
+  <text x="300" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+    Engineering Management Triangle
+  </text>
+  
+  <!-- Triangle -->
+  <polygon points="300,100 100,400 500,400" 
+           fill="none" 
+           stroke="#333" 
+           stroke-width="3"/>
+  
+  <!-- Lines from center to vertices -->
+  <line x1="300" y1="300" x2="300" y2="100" stroke="#ddd" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="300" y1="300" x2="100" y2="400" stroke="#ddd" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="300" y1="300" x2="500" y2="400" stroke="#ddd" stroke-width="1" stroke-dasharray="5,5"/>
+  
+  <!-- Technology Circle (Top) -->
+  <circle cx="300" cy="100" r="60" fill="#4A90E2" opacity="0.9"/>
+  <text x="300" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    Technology
+  </text>
+  <text x="300" y="120" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+    テクノロジー
+  </text>
+  
+  <!-- People Circle (Bottom Left) -->
+  <circle cx="100" cy="400" r="60" fill="#50C878" opacity="0.9"/>
+  <text x="100" y="400" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    People
+  </text>
+  <text x="100" y="420" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+    ピープル
+  </text>
+  
+  <!-- Process Circle (Bottom Right) -->
+  <circle cx="500" cy="400" r="60" fill="#FF6B6B" opacity="0.9"/>
+  <text x="500" y="400" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    Process
+  </text>
+  <text x="500" y="420" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+    プロセス
+  </text>
+  
+  <!-- Center Label -->
+  <circle cx="300" cy="300" r="40" fill="#FFD700" opacity="0.8"/>
+  <text x="300" y="305" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+    EM
+  </text>
+  
+  <!-- Descriptions -->
+  <!-- Technology -->
+  <text x="300" y="460" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    • アーキテクチャ設計 • 技術選定 • コードレビュー
+  </text>
+  
+  <!-- People -->
+  <text x="150" y="480" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    • 採用・評価 • 1on1 • キャリア開発
+  </text>
+  
+  <!-- Process -->
+  <text x="450" y="480" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    • アジャイル • CI/CD • 品質管理
+  </text>
+  
+  <!-- Balance Note -->
+  <text x="300" y="510" font-family="Arial, sans-serif" font-size="11" font-style="italic" text-anchor="middle" fill="#999">
+    バランスを保ちながら、状況に応じて重点を変える
+  </text>
+</svg>
