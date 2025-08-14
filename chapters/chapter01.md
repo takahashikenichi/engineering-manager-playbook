@@ -113,7 +113,7 @@
 
 エンジニアリングマネージャーの役割は、[Engineering Management Triangle](https://github.com/engineering-manager-meetup/engineering-management-triangle)（※4）が良く整理されています。
 
-![Engineering Management Triangle](../resources/images/em-triangle.svg)
+![Engineering Management Triangle](../resources/images/em-triangle.jpg)
 
 このフレームワークは、Harold Leavittが1964年に提唱した「Leavitt's Diamond Model」を起源としており、組織変革の要素を「People（人）」「Process（プロセス）」「Technology（技術）」「Structure（構造）」の4つで整理したモデルを、エンジニアリングマネジメントの文脈に適用したものです。
 
