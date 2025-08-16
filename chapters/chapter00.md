@@ -1,4 +1,4 @@
-# エンジニアリングマネージャープレイブック
+# はじめに
 
 ## このドキュメントについて
 
@@ -37,35 +37,3 @@
 - **わかりやすい文体**: 不要な派生エピソードや物語化を廃した文章
 - **実態に近い実例**: 成功例・失敗例を交えた説明
 - **即座に使える**: 実践に落とし込みやすい具体的な方法論
-
-## ディレクトリ構造
-
-```
-engineering-manager-playbook/
-├── README.md              # このファイル
-├── outline.md            # 本の詳細な構成
-├── chapters/             # 各章の原稿
-│   ├── chapter01.md     # 第1章：EMとは
-│   ├── chapter02.md     # 第2章：チームビルディング
-│   └── ...              # 全10章
-├── resources/            # 図表、参考資料など
-├── LICENSE              # MITライセンス
-└── CONTRIBUTING.md      # 貢献ガイドライン
-```
-
-## 貢献
-
-このプロジェクトへの貢献を歓迎します。詳細は[CONTRIBUTING.md](CONTRIBUTING.md)をご覧ください。
-
-## ライセンス
-
-MIT License - 詳細は[LICENSE](LICENSE)をご覧ください。
-
-## 参考文献
-
-- オライリー・ジャパン「エンジニアリングマネージャーのしごと」
-- オライリー・ジャパン「エンジニアのためのマネジメントキャリアパス」
-- [Engineering Management Triangle](https://github.com/engineering-manager-meetup/engineering-management-triangle)
-- [エンジニアリングマネージャーのしごと](https://qiita.com/hirokidaichi/items/95678bb1cef32629c317) - hirokidaichi氏による詳細な解説
-
-
