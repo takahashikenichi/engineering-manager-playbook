@@ -63,9 +63,8 @@ MIT License - 詳細は[LICENSE](LICENSE)をご覧ください。
 
 ## 参考文献
 
-- オライリー・ジャパン「エンジニアリングマネージャーのしごと」
-- オライリー・ジャパン「エンジニアのためのマネジメントキャリアパス」
+- エンジニアリングマネージャーのしごと - オライリー・ジャパン
+- エンジニアのためのマネジメントキャリアパス - オライリー・ジャパン
 - [Engineering Management Triangle](https://github.com/engineering-manager-meetup/engineering-management-triangle)
-- [エンジニアリングマネージャーのしごと](https://qiita.com/hirokidaichi/items/95678bb1cef32629c317) - hirokidaichi氏による詳細な解説
-
-
+- [エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド](https://qiita.com/hirokidaichi/items/95678bb1cef32629c317) - hirokidaichi氏による詳細な解説
+- エンジニアリング組織開発 - 技術評論社
