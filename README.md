@@ -30,6 +30,7 @@
 8. **[キャリア開発](chapters/chapter08.md)** - メンバーと自身の成長戦略
 9. **[困難な状況への対処](chapters/chapter09.md)** - パフォーマンス問題、退職など
 10. **[EMとしての成長](chapters/chapter10.md)** - 継続的な学習と改善
+11. **[AIの活用](chapters/chapter11.md)** - 生成AI時代のエンジニアリングマネジメント
 
 ### 特徴
 
@@ -47,7 +48,7 @@ engineering-manager-playbook/
 ├── chapters/             # 各章の原稿
 │   ├── chapter01.md     # 第1章：EMとは
 │   ├── chapter02.md     # 第2章：チームビルディング
-│   └── ...              # 全10章
+│   └── ...              # 全11章
 ├── resources/            # 図表、参考資料など
 ├── LICENSE              # MITライセンス
 └── CONTRIBUTING.md      # 貢献ガイドライン
